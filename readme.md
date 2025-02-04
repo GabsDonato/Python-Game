@@ -38,7 +38,9 @@ Complete as missões e avance para os próximos níveis!
 
 ## Autor
 **Nome**: [Gabriela Donato](https://github.com/GabsDonato)
+
 **Curso**: Análise e Desenvolvimento de Sistemas - Faculdade Uninter
+
 **E-mail**: [4632327@alunouninter.com]()
 
 ### Contribuições
