@@ -1,4 +1,4 @@
-# Jogo de Gangsters - Projeto de Faculdade
+# Jogo de Gangsters - Projeto da Faculdade
 ## Descrição
 Este projeto é um jogo em Python onde os personagens principais são gangsters que coletam dinheiro e enfrentam a polícia em uma metrópole cheia de prédios altos. O objetivo do jogo é permitir que os jogadores assumam o papel de gangsters enquanto interagem com o ambiente e realizam missões, como coletar dinheiro e trocar tiros com os policiais. O jogo é ambientado em um cenário urbano, com prédios grandes e movimentação constante, criando uma atmosfera intensa e desafiadora.
 
